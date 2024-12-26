@@ -1,3 +1,6 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
+
 - 👋 Hi, I’m Shazid
 - 👀 I’m interested in DBMS, Software Development, SQA
 - 🌱 I’m currently learning Computer Networks
